@@ -19,7 +19,7 @@ No duplicados --> Un diccionario no puede tener 2 elementos con la misma llave
 ## Tuplas
 
 Se utilizan para almacenar múltiples elementos en una sola variable
-Son ordenadas, permiten valroes duplicados y inmutables
+Son ordenadas, permiten valroes duplicados e inmutables
 
 Ordenadas -> Orden definido y ese orden no cambia
 Permiten duplicados -> Al ser indexadas (como las listas) pueden tener elementos con el mismo valor
@@ -41,3 +41,4 @@ No permiten duplicados -> Los sets no pueden tener elementos con el mismo valor
 
 Se suelen utilizar refiriendose a la teoría de conjuntos (prácticamente son la intersección de 2 conjuntos)
 
+Nos quedamos en el 2:23
